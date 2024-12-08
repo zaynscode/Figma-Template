@@ -10,7 +10,7 @@ export default function Home() {
         <Header />
       </div >
       
-      <div className="w-[496px] h-44 absolute top-80 left-44 ">
+      <div className="w-1/2 h-[80%] absolute top-80 left-44 ">
         <h2 className="font-[Libre Bodoni] color-[#000000] font-bold text-[40px] loading-[85.8px] 
         tracking-[2.5%] ">IMPECCABLE CRAFTSMANSHIP AND FINESSE
         </h2>
